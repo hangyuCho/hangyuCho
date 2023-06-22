@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?text=Hello％World！&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Let's%20Enjoy&animation=fadeIn&color=auto)
 
 ### 初めまして！プロントが好きなサーバサイド開発者です。
 ![hangyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hangyuCho&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=hangyuCho&row=2&column=3)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
