@@ -4,3 +4,4 @@
 ![hangyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hangyuCho&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=hangyuCho&row=2&column=3)
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
