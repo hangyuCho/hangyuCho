@@ -32,8 +32,11 @@
 <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8?style=flat&logo=Apache%20Groovy&logoColor=white"/>
 
 #### 📚Studying
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<!-- 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby&logoColor=white"/>
+-->
 
 
 
