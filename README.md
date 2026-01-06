@@ -12,12 +12,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hangyuCho&row=2&column=3)
 
-#### 📚Studying
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<!-- 
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby&logoColor=white"/>
--->
 
 
 
